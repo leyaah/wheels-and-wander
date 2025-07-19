@@ -1,0 +1,61 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wheels & Wander Rentals - Services</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+    <nav class="navbar">
+        <div class="logo">
+            <img src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t39.30808-6/463547948_895755145953614_3964821081242642209_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHcO2AXHcBgCO2X7uKZU-jjbhgvIzJbj89uGC8jMluPz2gN6fyCviqx0d2mSJendqckaEdKWh_eFlo-RoMJgxj0&_nc_ohc=Q_hzDu5Oq6oQ7kNvwG_gRm_&_nc_oc=AdnK7CE2uduY1_zZ_S9Cd8UlPEfswLfKgKdl_wfEQUMN4ZAP6fvMzSFON326t5nsfLOqw60ezHgB-j30cjpnMIIn&_nc_zt=23&_nc_ht=scontent.fmnl4-3.fna&_nc_gid=iyvDpB7nBdoM7JhjjjJoIw&oh=00_AfTbkfmTZ6HCZQa2KMyCUswhr7zlx0ogl4ca39XgVZNT7w&oe=68816DD3" alt="Wheels & Wander Logo" class="image-class">
+        </div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="login.html">Log In</a></li>
+        </ul>
+    </nav>
+
+
+
+    <section class="services">
+        <div class="service-card">
+            <img src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t39.30808-6/487999478_1089137786567214_4731706948704032486_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG46t5UWGguuolC9QMKZBBQnVkMZeIe_q-dWQxl4h7-r9iyAuXb4t39w65Lm8tLNsKbZ0Io4XtTMjHzgey9iWs8&_nc_ohc=Xki7uiE3e2YQ7kNvwFSNeOg&_nc_oc=AdlDgeRv9jNkbzGge_IP7BXgVb_0Io9I9uAS-m_4aWF_ND4K82IolDI4FGgvVVA2ayz6AZR2_PC3EEGHCAMax79Y&_nc_zt=23&_nc_ht=scontent.fmnl4-3.fna&_nc_gid=CAo2ufqysvtZZYskG1LT-w&oh=00_AfSSl2cdB2zjUMQ5Q0cI1US_XLfBYzul_4d-pL_-H1xbnw&oe=68817BC9" alt="Event 1">
+            <h3>G-DRAGON 2025 WORLD TOUR [Übermensch]</h3>
+            <p>Join us for an unforgettable night of music and fun! Rent a van to get there with us.</p>
+        </div>
+        <div class="service-card">
+            <img src="https://scontent.fmnl4-1.fna.fbcdn.net/v/t39.30808-6/487107420_1082871053860554_9122256483178676262_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEOUNivZKfcFHq6625siPT8OadxTEhQIfw5p3FMSFAh_Dwo589Kn6D_pAH4HNhynopYs6bpeYUMTu4_bs-NH9ho&_nc_ohc=vu9Lta4qM4oQ7kNvwGcxI-D&_nc_oc=Adnjdt9n8is0VLCXL5bvoIpTp5Ouvy4iSdMMxmGIKq0FeyCI_B0rLGNi491HGv-HZ5w2YbEDZxXt239wAAvy1zSO&_nc_zt=23&_nc_ht=scontent.fmnl4-1.fna&_nc_gid=QEB3oalKbFE05caotblKXw&oh=00_AfRiU2ILn_pY3YWc7yAZLhmwAiNYyaO9p37Uj-Ua0QoiRw&oe=68817C89" alt="Event 2">
+            <h3>SB19: SIMULA AT WAKAS WORLD TOUR</h3>
+            <p>Enjoy the concert without the hassle of parking! We’ll get you there safely.</p>
+        </div>
+        <div class="service-card">
+            <img src="https://scontent.fmnl4-4.fna.fbcdn.net/v/t39.30808-6/515537057_2976543052524532_4453757855465737114_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGsypeYjTAyrxFgJBWPFmaH6-ZksGO4wVLr5mSwY7jBUhTsb154YHEqSx49p7u4Wl4awYF0mx8Xkw_UlljJGjTg&_nc_ohc=Gmp4ABgohzEQ7kNvwFlkISO&_nc_oc=Adlu6kz8-RMEHykp2UmoEKQQCwfmTd3ElG9nGgwtcTc81Oo84MmhKW06rZhJFGWDORReLoz8aF0AyjXOI-S-lbFg&_nc_zt=23&_nc_ht=scontent.fmnl4-4.fna&_nc_gid=lP1PyZPY1moFgvaNf6BHBg&oh=00_AfRciw7hEVw6J8nxAG375-SYAO5wuOPFazJ-vhkzp1ybxA&oe=68819509" alt="Event 3">
+            <h3>PUREGOLD OPM CON 2025</h3>
+            <p>Travel with others to an epic concert experience! Comfortable ride, fun time!</p>
+        </div>
+        <div class="service-card custom-booking">
+            <img src="https://cdn-icons-png.flaticon.com/512/8212/8212741.png" alt="Custom Booking">
+            <h3>Custom Booking</h3>
+            <p>Choose your own destination and we’ll arrange a custom trip just for you.</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="contact">
+            <a href="https://www.facebook.com/wheelsandwanderrentals" target="_blank">
+                <img src="images/fb.png" alt="Facebook Icon"">
+            </a><span>ㅤ</span>
+            <img src="images/phone.png" alt="Phone Icon">
+            <span>0967 209 5808</span>
+            <img src="images/mail.png" alt="Email Icon">
+            <span>contact.wheelsandwander@gmail.com</span><br>
+        </div>
+    </footer>
+</body>
+</html>
