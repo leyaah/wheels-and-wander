@@ -1,0 +1,42 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wheels & Wander Rentals</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">
+            <img src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t39.30808-6/463547948_895755145953614_3964821081242642209_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHcO2AXHcBgCO2X7uKZU-jjbhgvIzJbj89uGC8jMluPz2gN6fyCviqx0d2mSJendqckaEdKWh_eFlo-RoMJgxj0&_nc_ohc=Q_hzDu5Oq6oQ7kNvwG_gRm_&_nc_oc=AdnK7CE2uduY1_zZ_S9Cd8UlPEfswLfKgKdl_wfEQUMN4ZAP6fvMzSFON326t5nsfLOqw60ezHgB-j30cjpnMIIn&_nc_zt=23&_nc_ht=scontent.fmnl4-3.fna&_nc_gid=iyvDpB7nBdoM7JhjjjJoIw&oh=00_AfTbkfmTZ6HCZQa2KMyCUswhr7zlx0ogl4ca39XgVZNT7w&oe=68816DD3" alt="Wheels & Wander Logo" class="image-class">
+        </div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="login.html">Log In</a></li>
+        </ul>
+    </nav>
+
+
+    <section class="hero">
+        <img src="https://scontent.fmnl4-7.fna.fbcdn.net/v/t39.30808-6/490292864_1017485980447196_3153593542487290042_n.png?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGMNbjHpzh9qbREtz7PtBDs36dMAx18SWzfp0wDHXxJbGtGyK9FvictRr2fKfqEKWESaIrOy9mklaImnevjOLhx&_nc_ohc=0Y8GZ0f735QQ7kNvwGaI6iM&_nc_oc=AdkkEtwR4VASZAW4eh1O5YwGOZY8h6D0DNiiZnI3w9DY2MllpQvPt1R11YXJL7uiQHD2SKzfvjb-dhjLAGAIP7Wh&_nc_zt=23&_nc_ht=scontent.fmnl4-7.fna&_nc_gid=1beeIOP4j9npmZ0r6CaGNg&oh=00_AfT7I8fWPmzRMyW8BnvH2T4euYXZDuj1k1Dl_EgfdFaQ1A&oe=68816331" alt="Cover Photo">
+        <a href="services.html" class="cta-button">Explore Services</a>
+    </section>
+
+    <footer class="footer">
+        <div class="contact">
+            <a href="https://www.facebook.com/wheelsandwanderrentals" target="_blank">
+                <img src="images/fb.png" alt="Facebook Icon"">
+            </a><span>ㅤ</span>
+            <img src="images/phone.png" alt="Phone Icon">
+            <span>0967 209 5808</span>
+            <img src="images/mail.png" alt="Email Icon">
+            <span>contact.wheelsandwander@gmail.com</span><br>
+        </div>
+    </footer>
+
+</body>
+</html>
